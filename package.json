@@ -1,0 +1,34 @@
+{
+  "name": "namma-react",
+  "version": "1.0.0",
+  "description": "This is my react project",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest",
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shridhara53/namma-react.git"
+  },
+  "author": "Shridhara MN",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shridhara53/namma-react/issues"
+  },
+  "homepage": "https://github.com/Shridhara53/namma-react#readme",
+  "devDependencies": {
+    "parcel": "^2.8.3",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "browserslist": [
+    "last 2 Chrome versions",
+    "last 3 firefox version",
+    "last 3 safari version"
+  ]
+}
